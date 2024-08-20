@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+div#quem_somos {
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.301);
+    font: normal 15pt Arial;  
+    color: black; 
+}
+
+section#equipe {
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.301);
+    font: normal 15pt Arial;
+    text-align: center;
+}
+
+table{
+    margin: auto;
+text-align: justify;
+}
+
+p#missao{
+    text-align: justify; 
+}
